@@ -48,4 +48,4 @@ MIT License
 
 ---
 
-**Made with ❤️ by Yashwanth Guthikonda**
+**Made with ❤️ by vardhan**
